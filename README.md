@@ -23,7 +23,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
 <img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
 <img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg"/>
-<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
+<img align="left" alt="Unity" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/>
 <br>
 
