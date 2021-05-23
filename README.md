@@ -16,3 +16,15 @@
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Subhadeep0506&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### Connect with me:
+
+[<img align="left" alt="Subhadeep Mandal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Subhadeep Mandal | instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+[<img align="left" alt="Subhadeep Mandal | LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
+[<img align="left" alt="Subhadeep Mandal | hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />][hackerrank]
+
+[linkedin]: https://www.linkedin.com/in/subhadeep-mandal-460078200/
+[instagram]: https://www.instagram.com/s.u.b.h.a.d.e.e.p__/
+[leetcode]: https://leetcode.com/denct/
+[hackerrank]: https://www.hackerrank.com/DenCT
