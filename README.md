@@ -1,10 +1,10 @@
-### Hi there, <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm Subhadeep Mandal.</h1> <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=<yourid.yourid>" alt="Vistor Badge">  </a><a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Subhadeep0506.Subhadeep0506" alt="Vistor Badge"></a>
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm Subhadeep Mandal.</h1> <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=<yourid.yourid>" alt="Vistor Badge">  </a><a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Subhadeep0506.Subhadeep0506" alt="Vistor Badge"></a>
 
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Android Projects
-- 🤔 I’m looking for help with Kotlin
+- 🤔 I’m looking for help with Kotlin, Flutter, Dart
 - 💬 Ask me about Java
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Javascript is funny :)
@@ -23,6 +23,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
 <img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
 <img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg"/>
+<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
+<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/>
 <br>
 
 ### Connect with me:
