@@ -14,7 +14,7 @@
 
 
 ## ⚙ Languages, Tools and Platforms I love to work with:
-<img align="left" alt="Java" width="20px" src="https://github.com/Subhadeep0506/Subhadeep0506/blob/main/58480979cef1014c0b5e4901.png"/>
+<img align="left" alt="Java" width="20px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
 <img align="left" alt="Java" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
 <img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
