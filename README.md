@@ -11,7 +11,10 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Subhadeep0506&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-
+<H2>DAMN! This little python eats away my contributions!</H2>
+<div>
+  <img align="left" alt="GIF" src="https://github.com/Subhadeep0506/Subhadeep0506/blob/main/images/github-user-contribution.svg"/>
+</div>
 
 ## ⚙ Languages, Tools and Platforms I love to work with:
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
