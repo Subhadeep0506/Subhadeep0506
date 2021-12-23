@@ -8,7 +8,9 @@
 - 💬 Ask me about Java
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Javascript is funny :)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=subhadeep0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src = "https://github-readme-stats.vercel.app/api?username=Subhadeep0506&&show_icons=true&title_color=ffffff&icon_color=ff8454&text_color=daf7dc&bg_color=6054ff">
 <img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&hide=css&theme=nord" alt="Subhadeep0506" />
 <H2>DAMN! This little python eats away my contributions!</H2>
