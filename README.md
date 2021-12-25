@@ -2,12 +2,12 @@
 
 
 - 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Android Projects
 - 🤔 I’m looking for help with Kotlin, Flutter, Dart
 - 💬 Ask me about Java
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Javascript is funny :)
+- ⚡ Fun fact: Flutter is Amazing!! :)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=subhadeep0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -21,7 +21,9 @@
 ## ⚙ Languages, Tools and Platforms I love to work with:
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>
 <img align="left" alt="kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/>
+<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
+<img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"/>
 <img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
 <img align="left" alt="Android Studio" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg"/>
 <img align="left" alt="Unity" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
