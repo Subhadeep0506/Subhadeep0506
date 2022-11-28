@@ -15,8 +15,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhadeep0506&show_icons=true&theme=gruvbox)
 
-<img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&hide=css&theme=nord" alt="Subhadeep0506" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&langs_count=8)](https://github.com/Subhadeep0506/github-readme-stats)
 
 <H2>DAMN! This little python eats away my contributions!</H2>
