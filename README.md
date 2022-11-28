@@ -11,8 +11,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=subhadeep0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Subhadeep0506&&show_icons=true&title_color=ffffff&icon_color=ff8454&text_color=daf7dc&bg_color=6054ff">
+<!-- <img src = "https://github-readme-stats.vercel.app/api?username=Subhadeep0506&&show_icons=true&title_color=ffffff&icon_color=ff8454&text_color=daf7dc&bg_color=6054ff"> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhadeep0506&show_icons=true&theme=gruvbox)
+
 <img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&hide=css&theme=nord" alt="Subhadeep0506" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&langs_count=8)](https://github.com/Subhadeep0506/github-readme-stats)
+
 <H2>DAMN! This little python eats away my contributions!</H2>
 <div>
   <img align="left" alt="GIF" src="https://github.com/Subhadeep0506/Subhadeep0506/blob/main/images/github-user-contribution.svg"/>
