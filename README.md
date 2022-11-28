@@ -13,7 +13,7 @@
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=Subhadeep0506&&show_icons=true&title_color=ffffff&icon_color=ff8454&text_color=daf7dc&bg_color=6054ff"> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhadeep0506&show_icons=true&theme=gruvbox)
+![Subhadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhadeep0506&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&langs_count=8)](https://github.com/Subhadeep0506/github-readme-stats)
 
