@@ -1,11 +1,9 @@
 <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm Subhadeep Mandal.</h1><a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Subhadeep0506.Subhadeep0506" alt="Vistor Badge"></a>
 
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Android Projects
-- 🤔 I’m looking for help with Kotlin, Flutter, Dart
-- 💬 Ask me about Java
+- 🔭 I’m currently working on my DSA Skills 🫤
+- 🌱 I’m currently learning Data Science
+- 💬 Ask me about Python and Java
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Flutter is Amazing!! :)
 
