@@ -17,11 +17,9 @@
 <div>
   <img align="left" alt="GIF" src="https://github.com/Subhadeep0506/Subhadeep0506/blob/main/images/github-user-contribution.svg"/>
 </div>
-
+<br>
 ## ⚙ Languages, Tools and Platforms I love to work with:
 <br>
-<br>
-
 [![My Skills](https://skillicons.dev/icons?i=java,py,dart,flutter,gcp,js,linux,postgres,git,flask,vscode,androidstudio)](https://skillicons.dev)
 
 ### Connect with me:
