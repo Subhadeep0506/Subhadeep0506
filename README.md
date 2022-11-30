@@ -19,18 +19,10 @@
 </div>
 
 ## ⚙ Languages, Tools and Platforms I love to work with:
-<img align="left" alt="Java" width="26px" src="https://github.com/Subhadeep0506/Subhadeep0506/blob/main/images/java-icon.png"/>
-<img align="left" alt="Python" width="26px" src="https://github.com/Subhadeep0506/Subhadeep0506/blob/main/images/python-icon.png"/>
-<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
-<img align="left" alt="Flutter" width="82px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"/>
-<img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
-<img align="left" alt="Android Studio" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg"/>
-<img align="left" alt="Unity" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,dart,flutter,gcp,js,linux,postgres,git,flask,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,dart,flutter,gcp,js,linux,postgres,git,flask,vscode,androidstudio)](https://skillicons.dev)
 
 ### Connect with me:
 
