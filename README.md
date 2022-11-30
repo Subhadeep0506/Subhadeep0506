@@ -11,7 +11,7 @@
 
 [![Subhadeep's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Subhadeep0506?cardType=level&theme=gruvbox)](https://git.io/awesome-stats-card)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&langs_count=8)](https://github.com/Subhadeep0506/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&langs_count=8&layout=compact)](https://github.com/Subhadeep0506/github-readme-stats)
 
 <H2>DAMN! This little python eats away my contributions!</H2>
 <div>
