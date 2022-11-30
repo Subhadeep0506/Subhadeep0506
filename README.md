@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=subhadeep0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Subhadeep's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Subhadeep0506?cardType=level&theme=gruvbox)](https://git.io/awesome-stats-card)
+[![Subhadeep's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Subhadeep0506?cardType=octocat&theme=gruvbox)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep0506&langs_count=8&layout=compact)](https://github.com/Subhadeep0506/github-readme-stats)
 
@@ -29,7 +29,7 @@
 <img align="left" alt="Unity" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
 <br>
 <br>
-
+[![My Skills](https://skillicons.dev/icons?i=java,py,dart,flutter,gcp,js,linux,postgres,git,flask,unity,vscode)](https://skillicons.dev)
 ### Connect with me:
 
 [<img align="left" alt="Subhadeep Mandal | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
