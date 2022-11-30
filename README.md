@@ -29,7 +29,9 @@
 <img align="left" alt="Unity" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java,py,dart,flutter,gcp,js,linux,postgres,git,flask,unity,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,dart,flutter,gcp,js,linux,postgres,git,flask,vscode)](https://skillicons.dev)
+
 ### Connect with me:
 
 [<img align="left" alt="Subhadeep Mandal | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
