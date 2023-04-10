@@ -23,7 +23,7 @@
 ## ⚙ Languages, Tools and Platforms I love to work with:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,dart,flutter,gcp,js,linux,postgres,git,flask,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,postgres,flask,fastapi,dart,flutter,gcp,js,linux,git,vscode)](https://skillicons.dev)
 
 ### Connect with me:
 
