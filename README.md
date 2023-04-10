@@ -1,4 +1,4 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm Subhadeep Mandal.</h1><a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Subhadeep0506.Subhadeep0506" alt="Vistor Badge"></a>
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm Subhadeep Mandal.</h1><a href="https://visitorbadge.io/status?path=Subhadeep0506"><img src="https://api.visitorbadge.io/api/visitors?path=Subhadeep0506&label=VISITORS&countColor=%23263759" /></a>
 
 
 - 🔭 I’m currently working on my DSA Skills 🫤
