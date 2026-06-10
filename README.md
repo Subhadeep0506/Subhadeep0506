@@ -7,7 +7,7 @@
 - ⚡ Fun fact: The amount of data generated daily is estimated to reach 463 exabytes by 2025. This exponential growth highlights the ever-increasing importance of data science and analytics in making sense of vast information.
 - 📫 Please feel free to connect with me for professional inquiries, collaboration opportunities, or to exchange insights on the latest trends in technology and data science.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=subhadeep0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Subhadeep0506&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Subhadeep's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/subhadeep0506?cardType=octocat&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
 
